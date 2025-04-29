@@ -1,5 +1,5 @@
 {
-  "name": "ahmed-ramadan/laravel-aws-cognito-auth3",
+  "name": "ahmed-ramadan/laravel-aws-cognito-auth2",
   "description": "An authentication driver for Laravel for authenticating users in AWS Cognito User Pools",
   "keywords": ["php", "laravel", "auth", "aws", "cognito"],
   "license": "MIT",
